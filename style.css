@@ -127,3 +127,111 @@ form button {
 form button:hover {
   background-color: #2980b9;
 }
+
+/* Container */
+.container {
+    background-color: #efebe9; /* coklat muda */
+    width: 400px;
+    margin: 50px auto;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+/* Judul */
+.judul {
+    text-align: center;
+    color: #3e2723;
+}
+
+/* Info */
+.info {
+    text-align: center;
+    color: #4e342e;
+}
+
+/* Label */
+label {
+    color: #3e2723;
+    font-weight: bold;
+}
+
+/* Input */
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0 15px 0;
+    border: 1px solid #6d4c41;
+    border-radius: 5px;
+}
+
+/* Tombol */
+button {
+    width: 100%;
+    padding: 12px;
+    background-color: #6d4c41;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+/* Hover tombol */
+button:hover {
+    background-color: #3e2723;
+}
+
+/* Info kontak */
+.kontak-info {
+    margin-top: 20px;
+    text-align: center;
+    color: #3e2723;
+}
+
+/* Container */
+.container {
+    width: 500px;
+    margin: 50px auto;
+}
+
+/* Judul */
+.judul {
+    text-align: center;
+    color: #efebe9;
+}
+
+/* Card event */
+.event-card {
+    background-color: #efebe9;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Nama event */
+.nama-event {
+    color: #3e2723;
+}
+
+/* Detail */
+.detail {
+    color: #4e342e;
+}
+
+/* Deskripsi */
+.deskripsi {
+    color: #5d4037;
+}
+
+/* Tombol */
+.tombol {
+    background-color: #6d4c41;
+    color: white;
+    padding: 12px;
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+}
+
+/* Hover tombol */
+.tombol:hover {
+    background-color: #3e2723;
+}
